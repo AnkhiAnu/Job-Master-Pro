@@ -1,0 +1,47 @@
+export default[
+    {
+        id:1,
+        postedOn:'2024-12-30',
+        title:'iOS Developer',
+        company:'Apple',
+        type:'Full Time',
+        experience:'Mid Level',
+        location:'Remote',
+        skills:["SwiftUI","UiKit","Core Data"],
+        job_link:"https://www.apple.com/careers/in/"
+    },
+    {
+        id:2,
+        postedOn:'2024-12-28',
+        title:'Frontend Developer',
+        company:'Amazon',
+        type:'Full Time',
+        experience:'Fresher',
+        location:'In-Office',
+        skills:["JavaScript","Tailwind CSS","Nextjs"],
+        job_link:"https://www.amazon.jobs/en/"
+    },
+    {
+        id:3,
+        postedOn:'2024-12-22',
+        title:' Developer Advocate',
+        company:'Netflix',
+        companyURL:"https://facebook.com",
+        type:'Contract',
+        location:'Hybrid',
+        experience:'Junior Level',
+        skills:["Web3","Content Creation","Community"],
+        job_link:"https://www.jobs.netflix.com/",
+    },
+    {
+        id:4,
+        postedOn:'2025-1-1',
+        title:'Android Developer',
+        company:'Facebook',
+        type:'Part Time',
+        experience:'Senior Level',
+        location:'Remote',
+        skills:["SwiftUI","Kotlin","MVVM"],
+        job_link:"https://www.facebook.com/careers/",
+    },
+]
